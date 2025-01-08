@@ -1,0 +1,2 @@
+# STC15W4K56S4-Core-Board
+The STC15W4K56S4 Core Board
